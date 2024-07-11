@@ -22,6 +22,6 @@ MongoDB
 Mongoose
 JWT (JSON Web Tokens) for authentication
 Getting Started
-#Prerequisites
+# Prerequisites
 Node.js: Ensure you have Node.js installed. You can download it from here.
 MongoDB: You need a MongoDB database. You can use a local instance or a cloud service like MongoDB Atlas.
